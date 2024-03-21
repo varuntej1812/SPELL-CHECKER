@@ -1,0 +1,17 @@
+Case 1 sample words:
+
+CC -> Country
+అగ్ని  -> Fire
+
+Case 2 sample words:
+
+వాయువు -> Gas
+దొగ -> Theif
+
+Case 3 sample word:
+
+జలం:
+    English: "జలం" in English is "Water" 
+    Hindi: "జలం" in Hindi is "पानी" 
+    Tamil: "In Tamil, "జలం" is "தண்ணீர்" 
+    Kannada: "In Kannada, "జలం" is "ನೀರು"
